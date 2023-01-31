@@ -447,7 +447,7 @@ img{
 
 .education__studies,
 .experience__company{
-    font-size: var(--small-font-size);
+    font-size: var(--smaller-font-size);
     color: var(--title-color);
 }
 
